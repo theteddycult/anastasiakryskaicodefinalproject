@@ -1,0 +1,56 @@
+body{
+  background: black;
+}
+h1 {
+  background-color: gray;
+  border: 18px solid white;
+  color: white;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+p {
+   background-color: black;
+   border: 18px solid white;
+   color: white;
+   margin: auto;
+   padding: 20px;
+   text-align: center;
+}
+h2 {
+   background-color: gray;
+   border: 10px solid white;
+   color: white;
+   margin: auto;
+   padding: 20px;
+   text-align: center;
+}
+
+h3 {
+   background-color: gray;
+   border: 10px solid white;
+   color: white;
+   margin: auto;
+   padding: 20px;
+   text-align: center;
+}
+
+h4 {
+   background-color: gray;
+   border: 10px solid white;
+   color: white;
+   margin: auto;
+   padding: 20px;
+   text-align: center;
+}
+
+img {
+    background-color: black;
+    border: 18px solid black;
+    outline: white solid 10px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+
+    }
